@@ -1,0 +1,22 @@
+/*****************************/
+/* INSERT YOUR CSS CODE HERE */
+/*****************************/
+
+.navbar-default {
+	background-color: #79C0FF;
+}
+
+.jumbotron {
+	background-color: #79C0FF;
+}
+
+.jumbotron .resume {
+	color: #21537F;
+	font-size: 24px;
+}
+
+.jumbotron img {
+	border-radius: 100%;
+}
+
+ 
